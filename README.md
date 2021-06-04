@@ -1,3 +1,5 @@
+# Laravel Framework 7.30.4 and React 16.13.0 and JWT
+
 # Laravel-React SPA
 
 Starter Boilerplate SPA made with Laravel and React.
